@@ -9,9 +9,10 @@ Starting the journey in the development world, I am a 5º semester Computer Scie
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&locale=en" alt="devcavalcante" /></p>
 
+<p>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/kedin.com/in/débora-cavalcante-171633142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kedin.com/in/débora-cavalcante-171633142/" height="30" width="40" /></a>
   <a href="https://gitlab.com/debora.brito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="gitlab" height="30" width="40" /></a>
 </p>
-
+</p>
