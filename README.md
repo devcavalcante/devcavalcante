@@ -8,5 +8,5 @@ Skills: LARAVEL /  PHP / REACT / JS / HTML / CSS /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devcavalcante)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edin.com/in/débora-cavalcante-171633142//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](edin.com/in/débora-cavalcante-171633142/)  
 
-![Profile views](https://gpvc.arturio.dev/devcavalcante)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/devcavalcante)  
