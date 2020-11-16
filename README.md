@@ -8,7 +8,7 @@ Starting the journey in the development world, I am a 5º semester Computer Scie
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcavalcante&show_icons=true&locale=en&layout=compact" alt="devcavalcante" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&locale=en" alt="devcavalcante" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&locale=en" alt="devcavalcante" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
