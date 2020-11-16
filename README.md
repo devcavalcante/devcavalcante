@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/devcavalcante)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devcavalcante&label=Profile%20views&color=0e75b6&style=flat" alt="devcavalcante" /> </p>
 ### Hi there 👋, my name is Débora
 #### I am a computer science student
 Starting the journey in the development world, I am a 5º semester Computer Science Student at Federal University from Western Pará. I love programming and trying to find more about Full Stack Web Development and Data Science.
