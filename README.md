@@ -86,6 +86,6 @@ Starting the journey in the development world, I am a 5º semester Computer Scie
   
 
 <br/>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
 
 <br />
