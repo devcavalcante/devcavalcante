@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="margin: "100" width: 100% />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% margin: 100px"" />
   
 
 ### <div align="center">I'm Débora, a full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
