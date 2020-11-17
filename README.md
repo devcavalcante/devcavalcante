@@ -1,9 +1,6 @@
-<div valign="top" width="50%">
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-</div>    
 
 ### <div align="center">I'm Débora, a full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
   
