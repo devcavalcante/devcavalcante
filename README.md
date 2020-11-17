@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />  
   
 
 ### <div align="center">I'm Débora, a full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
@@ -71,12 +71,16 @@ Starting the journey in the development world, I am a 5º semester Computer Scie
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcavalcante&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
 
 <br/>  
 
