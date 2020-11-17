@@ -1,5 +1,14 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% margin: 100px" />
-  
+
+## Rapidfire  
+<table>
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>    
 
 ### <div align="center">I'm Débora, a full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
   
