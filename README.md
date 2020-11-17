@@ -7,6 +7,7 @@ Starting the journey in the development world, I am a 5º semester Computer Scie
 
 <p align="rigth">
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&locale=en" alt="devcavalcante" />
+</br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcavalcante&show_icons=true&locale=en&layout=compact" alt="devcavalcante" />
 </p>
 </br>
