@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<h2> Hi, I'm Débora Cavalcante! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </div>  
 
-### <div align="center">I'm Débora, a full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">Full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
   
 
-Starting the journey in the development world, I am a 5º semester Computer Science Student at Federal University from Western Pará. I love programming and trying to find more about Full Stack Web Development and Data Science.  
+Starting the journey in the development world, I am a 6º semester Computer Science Student at Federal University from Western Pará. I love programming and trying to find more about Full Stack Web Development and Data Science.  
   
 
 <br/>  
