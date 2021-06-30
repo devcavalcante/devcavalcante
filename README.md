@@ -4,8 +4,10 @@
 
 ### <div align="center">Desenvolvedora Fullstack PHP | React  👨‍💻 trabalhando remotamente desde 2020 🚀</div>  
   
-Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará, trabalhando como desenvolvedora FullStack, utilizando o framework Laravel no back-end e ReactJS no front-end. Também possuo experiência com NodeJs na manuntenção de código e criação de novas funcionalidades.
+Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará, trabalhando como desenvolvedora FullStack, utilizando o framework Laravel no back-end e ReactJS no front-end. Também possuo experiência com NodeJs na manutenção de código e criação de novas funcionalidades.
+<br/>
 Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com Laravel e React.JS.
+<br/>
 Programar é minha paixão e sempre estou buscando entender mais do mundo de desenvolvimento e também possuo interesse na área de Data Science.
 <br/>  
 
