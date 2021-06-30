@@ -2,12 +2,11 @@
 <h2> Hi, I'm Débora Cavalcante! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </div>  
 
-### <div align="center">Full-time full-stack developer, Student a Computer Science  👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">Desenvolvedora Fullstack PHP | React  👨‍💻 trabalhando remotamente desde 2020 🚀</div>  
   
-
-Starting the journey in the development world, I am a 6º semester Computer Science Student at Federal University from Western Pará. I love programming and trying to find more about Full Stack Web Development and Data Science.  
-  
-
+Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará, trabalhando como desenvolvedora FullStack, utilizando o framework Laravel no back-end e ReactJS no front-end. Também possuo experiência com NodeJs na manuntenção de código e criação de novas funcionalidades.
+Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com Laravel e React.JS.
+Programar é minha paixão e sempre estou buscando entender mais do mundo de desenvolvimento e também possuo interesse na área de Data Science.
 <br/>  
 
 
