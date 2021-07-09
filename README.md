@@ -8,7 +8,7 @@ Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará,
 <br/>
 Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com Laravel e React.JS.
 <br/>
-Programar é minha paixão e sempre estou buscando entender mais do mundo de desenvolvimento e também possuo interesse na área de Data Science.
+Programar é minha paixão e sempre estou buscando entender mais sobre esse mundo de desenvolvimento. ^^
 <br/>  
 
 
