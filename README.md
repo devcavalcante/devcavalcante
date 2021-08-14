@@ -6,7 +6,7 @@
   
 Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará, trabalhando como desenvolvedora backend Jr no PicPay.
 <br/>
-Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com Laravel e ReactJS.
+Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com PHP e ReactJS.
 <br/>
 Programar é minha paixão e sempre estou buscando entender mais sobre esse mundo de desenvolvimento. ^^
 <br/>  
