@@ -73,6 +73,6 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
   
 
 <br/>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
+<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
 
 <br />
