@@ -51,7 +51,7 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://linkedin.com/in/débora-cavalcante-171633142/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
