@@ -65,15 +65,10 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=devcavalcante&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcavalcante&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+</div>
 
 
 <br/>  
