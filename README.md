@@ -45,7 +45,6 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 ### Databases
 <div>  
 <img style="margin: 10px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"  />  
-<img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
 </div>
 <br/>  
 
