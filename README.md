@@ -12,9 +12,7 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+## Languages, Frameworks and Tools 
 
 
 ### Frontend  
@@ -26,9 +24,6 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -39,8 +34,6 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -48,8 +41,6 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
