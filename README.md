@@ -46,6 +46,13 @@ Programar é minha paixão e sempre estou buscando entender mais sobre esse mund
 <div>  
 <img style="margin: 10px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"  />  
 </div>
+
+### Outros
+<div>  
+<img style="margin: 10px" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT"  />  
+<img style="margin: 10px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"  />  
+  
+</div>
 <br/>  
 
 
