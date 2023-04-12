@@ -2,14 +2,9 @@
 <h2> Hi, I'm Débora Cavalcante! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </div>  
 
-### <div align="center">Desenvolvedora Fullstack PHP | React  👨‍💻 trabalhando remotamente desde 2020 🚀</div>  
+### <div align="center">Desenvolvedora Backend 👨‍💻 trabalhando remotamente desde 2020 🚀</div>  
   
-Estudante de Ciência da Computação na Universidade Federal do Oeste do Pará, trabalhando como desenvolvedora backend Jr no PicPay.
-<br/>
-Já participei de diversos projetos de pesquisa dentro da faculdade, como voluntária e bolsista, também desenvolvendo com PHP e ReactJS.
-<br/>
-Programar é minha paixão e sempre estou buscando entender mais sobre esse mundo de desenvolvimento. ^^
-<br/>  
+Sou estudante de Ciência da Computação na Universidade Federal do Oeste do Pará e atuo como desenvolvedora backend no PicPay. Ao longo da minha jornada acadêmica, participei de vários projetos de pesquisa, tanto como voluntária quanto como bolsista, contribuindo para a solução de problemas e desenvolvimento de aplicações úteis para a comunidade. Minhas habilidades técnicas incluem programação em diversas linguagens e frameworks, além de conhecimentos em bancos de dados e arquitetura de software. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer como profissional.
 
 
 ## Languages, Frameworks and Tools 
