@@ -72,9 +72,3 @@ Sou estudante de Ciência da Computação na Universidade Federal do Oeste do Pa
 </div>
 
 <br/>  
-  
-
-<br/>  
-<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=deborabc&cover_image=true&theme=default" /></div>  
-
-<br />
