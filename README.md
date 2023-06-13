@@ -40,7 +40,18 @@ Sou estudante de Ciência da Computação na Universidade Federal do Oeste do Pa
 ### Databases
 <div>  
 <img style="margin: 10px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"  />  
+<img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="REDIS" />  
 </div>
+
+### Observabilidade
+<div><
+<img style="margin: 10px" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="PROMETHEUS" />
+<img style="margin: 10px" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="GRAFANA" />
+
+  
+/div>
 
 ### Outros
 <div>  
