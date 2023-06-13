@@ -83,3 +83,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Oeste do Pa
 </div>
 
 <br/>  
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=deborabc&width=600)
+
